@@ -1,7 +1,7 @@
 {
   "name": "landing-hubaku",
 
-  "homepage": ".",
+  "homepage": "https://hubaku-git-main-ucupkecil.vercel.app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
